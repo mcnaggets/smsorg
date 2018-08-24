@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sms.org</string>
+    <string name="button_read_sms">Read SMS</string>
+</resources>
