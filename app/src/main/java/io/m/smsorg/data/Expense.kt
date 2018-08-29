@@ -1,4 +1,4 @@
-package io.m.smsorg
+package io.m.smsorg.data
 
 import java.time.LocalDate
 import java.util.*
